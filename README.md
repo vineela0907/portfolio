@@ -6,8 +6,10 @@ Selected projects by Vineela Srujan: interactive web experiences for events. Scr
 | Project | Summary |
 |---|---|
 | [Memory Match Game](projects/memory-match-game/) | Timed card-matching game with live leaderboard |
+| [Medical Congress Event Platform](projects/event-congress-platform/) | Agenda, QR check-in, live voting, Q&A, certificates |
+| [AI Photo Booth](projects/ai-photo-booth/) | Webcam to personalised branded image using image AI |
+| [Veeva CLM and Approved Email](projects/veeva-clm-and-approved-email/) | Interactive e-detailers and compliant emails for pharma |
 
-*More coming: event photo booth, spin-the-wheel, QR check-in.*
 
 ## Contact
 Add your LinkedIn / email here.
