@@ -12,4 +12,5 @@ Selected projects by Vineela Srujan: interactive web experiences for events. Scr
 
 
 ## Contact
-Add your LinkedIn / email here.
+- LinkedIn: [Vineela Srujan](https://www.linkedin.com/in/vineela-srujan-241196175/)
+- Email: vineela0907@gmail.com
